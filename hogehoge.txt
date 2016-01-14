@@ -7,3 +7,4 @@ hogehoge
 >>>>>>> .merge_file_izRmsq
 
 sample
+sample
