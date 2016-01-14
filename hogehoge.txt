@@ -5,3 +5,5 @@ hoge
 =======
 hogehoge
 >>>>>>> .merge_file_izRmsq
+
+sa
